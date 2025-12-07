@@ -89,9 +89,6 @@ def main():
     cwd_name: str = os.path.dirname(os.path.abspath(__file__))
 
     memes_path:str = os.path.join(cwd_name, "memes")
-    if not os.path.exists(memes_path):
-        print(f"Memes path '{memes_path}' does not exist. Please download the videos with the 'download.sh' script")
-        sys.exit(1)
     for meme_path in os.listdir(memes_path):
         os.remove(os.path.join(memes_path, meme_path))
 

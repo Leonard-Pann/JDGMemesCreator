@@ -2,5 +2,6 @@ arduino_files/
 audio/
 memes/
 memes_video/
-videos/
+videos/**
+!videos/.gitkeep
 tmp
