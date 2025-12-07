@@ -1,7 +1,13 @@
-arduino_files/
-audio/
+# Input
+videos/**
+audio/**
+!videos/.gitkeep
+!audio/.gitkeep
+
+# Output
 memes/
 memes_video/
-videos/**
-!videos/.gitkeep
+
+# Whatever
 tmp
+arduino_files
