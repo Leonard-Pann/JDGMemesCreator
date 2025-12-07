@@ -15,7 +15,6 @@ def main():
             video_name:str = videos_path[i]
             extract_audio_from_video(os.path.join(videos_dir, video_name), os.path.join(cwd_name, "audio", video_name.replace(".mp4", ".mp3")))
             pbar.update(1)
-            # print(f"Audio {i} finish!")
 
 if __name__ == '__main__':
     main()
