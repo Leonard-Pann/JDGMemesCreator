@@ -1,0 +1,7 @@
+# Audio and video generation
+audioop-lts==0.2.2
+pydub==0.25.1
+tqdm==4.67.1
+
+# Download the videos (download.sh)
+yt-dlp==2025.11.12

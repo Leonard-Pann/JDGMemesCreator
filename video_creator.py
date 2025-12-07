@@ -44,12 +44,12 @@ class AudioSamples:
 
     def to_json(self) -> str:
         return json.dumps(self, default=lambda o :o.__dict__, indent=4)
-    
+
 def extract_video_sample_ffmpeg(video_path:str, start_video_sec:float, end_video_sec:float, output_video_path:str, convert_to_mono:bool, video_quality:int, gain_db:float) -> None:
     args:list[str] = [
-        "ffmpeg", "-y", 
+        "ffmpeg", "-y",
         "-ss", str(start_video_sec),
-        "-to", str(end_video_sec), 
+        "-to", str(end_video_sec),
         "-i", video_path,
     ]
 
@@ -85,7 +85,6 @@ def extract_video_sample(sample:AudioSample, convert_to_mono:bool, video_quality
     extract_video_sample_ffmpeg(video_path, sample.start, sample.end, output_path, convert_to_mono, video_quality, audio_gain_db)
 
 def main():
-
     SAMPLE_QUALITY:int = -1 # <= 0 raw, 25 good quality, 28 medium, 35+ low
     TARGET_DBFS:float = -16.0
 

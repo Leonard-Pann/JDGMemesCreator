@@ -1,4 +1,7 @@
-import json, os, time, math
+import os, sys
+import time
+import math
+import json
 from pydub import AudioSegment
 from dataclasses import dataclass
 from typing import List
@@ -86,6 +89,9 @@ def main():
     cwd_name: str = os.path.dirname(os.path.abspath(__file__))
 
     memes_path:str = os.path.join(cwd_name, "memes")
+    if not os.path.exists(memes_path):
+        print(f"Memes path '{memes_path}' does not exist. Please download the videos with the 'download.sh' script")
+        sys.exit(1)
     for meme_path in os.listdir(memes_path):
         os.remove(os.path.join(memes_path, meme_path))
 
@@ -95,7 +101,7 @@ def main():
 
     samples: AudioSamples = AudioSamples.from_json(content)
 
-    #Compute remaining video
+    # Compute remaining videos
     # video_path: str = os.path.join(os.path.dirname(os.path.abspath(__file__)), "videos")
     # videos:list[str] = os.listdir(video_path)
     # for i in range(len(videos) - 1, -1, -1):
@@ -107,7 +113,6 @@ def main():
     #             break
     #     if contains:
     #         videos.pop(i)
-    
 
     if not samples.enable_all:
         samples.audio_samples = [sample for sample in samples.audio_samples if sample.enable]
@@ -131,14 +136,14 @@ def main():
                 extract_audio_sample(audio_samples.pop(0), samples.convert_to_mono, TARGET_DBFS)
                 pbar.update(1)
 
-            #remove this    
+            #remove this
             # break
 
     if samples.create_arduino_file:
         arduino_path:str = os.path.join(cwd_name, "arduino_files")
         for arduino_meme_path in os.listdir(arduino_path):
             os.remove(os.path.join(arduino_path, arduino_meme_path))
-        
+
         def itoa(i:int) -> str:
             res:str = str(i)
             nb_0:int = 4 - len(res)
