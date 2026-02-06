@@ -6,7 +6,7 @@ mkdir -p videos videos/raw
 
 # Download the raw videos
 cd videos/raw
-yt-dlp --format mp4 https://www.youtube.com/@joueurdugrenier
+# yt-dlp --format mp4 https://www.youtube.com/@joueurdugrenier
 
 # Remove the suffix that yt-dlp adds for no reason
 for video in *.{mp4,mkv,webm}; do
