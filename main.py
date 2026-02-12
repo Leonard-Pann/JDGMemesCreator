@@ -98,19 +98,6 @@ def main():
 
     samples: AudioSamples = AudioSamples.from_json(content)
 
-    # Compute remaining videos
-    # video_path: str = os.path.join(os.path.dirname(os.path.abspath(__file__)), "videos")
-    # videos:list[str] = os.listdir(video_path)
-    # for i in range(len(videos) - 1, -1, -1):
-    #     video_str:str = videos[i]
-    #     contains:bool = False
-    #     for sample in samples.audio_samples:
-    #         if sample.video_name == video_str:
-    #             contains = True
-    #             break
-    #     if contains:
-    #         videos.pop(i)
-
     if not samples.enable_all:
         samples.audio_samples = [sample for sample in samples.audio_samples if sample.enable]
 
@@ -133,9 +120,6 @@ def main():
                 extract_audio_sample(audio_samples.pop(0), samples.convert_to_mono, TARGET_DBFS)
                 pbar.update(1)
 
-            #remove this
-            # break
-
     if samples.create_arduino_file:
         arduino_path:str = os.path.join(cwd_name, "arduino_files")
         for arduino_meme_path in os.listdir(arduino_path):
@@ -155,8 +139,6 @@ def main():
 
     duration: float = math.floor((time.time() - start) * 100.0) / 100.0
     print(f"Terminated in {duration} sec!")
-    # if samples.enable_all:
-    #     print(f"Missing {len(videos)} vidéos : {videos}")
 
 if __name__ == "__main__":
     main()

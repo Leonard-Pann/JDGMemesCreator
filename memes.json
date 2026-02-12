@@ -349,6 +349,14 @@
         },
         {
             "video_name": "Joueur du Grenier - Des jeux en vrac !.mp4",
+            "audio_name": "Nan mais bon dépéchez vous quand même.mp3",
+            "start": 0.0,
+            "end": 4.5,
+            "enable": false,
+            "video_only": false
+        },
+        {
+            "video_name": "Joueur du Grenier - Des jeux en vrac !.mp4",
             "audio_name": "Elle s'est \u00e9touff\u00e9e en avalant une voiture majorette.mp3",
             "start": 9.0,
             "end": 17,
@@ -392,6 +400,14 @@
             "audio_name": "Captain diab\u00e8te.mp3",
             "start": 787.5,
             "end": 804.5,
+            "enable": false,
+            "video_only": false
+        },
+        {
+            "video_name": "Joueur du Grenier - Des jeux en vrac !.mp4",
+            "audio_name": "Une musique ça doit coller à la situation, la ca passe pas non.mp3",
+            "start": 889.5 ,
+            "end": 905.0,
             "enable": false,
             "video_only": false
         },
@@ -732,6 +748,14 @@
             "video_only": false
         },
         {
+            "video_name": "Joueur du grenier - AIRWOLF - CPC 464.mp4",
+            "audio_name": "13, 12, 11, ZEROOOOOOO.mp3",
+            "start": 947.4,
+            "end": 959.0,
+            "enable": false,
+            "video_only": false
+        },
+        {
             "video_name": "Joueur du Grenier - Excalibur 2555 A.D - Playstation.mp4",
             "audio_name": "J'ai une minute de moins \u00e0 jouer \u00e0 ce jeu de merde.mp3",
             "start": 136.25,
@@ -808,6 +832,14 @@
             "audio_name": "C'est une \u00e9mission tout publics esp\u00e8ce de gros d\u00e9gueulasse.mp3",
             "start": 61.25,
             "end": 75.5,
+            "enable": false,
+            "video_only": false
+        },
+        {
+            "video_name": "Joueur du Grenier - Road Runner & Tazmania.mp4",
+            "audio_name": "Interrogez ce médecin, il vous dira que j'ai raison.mp3",
+            "start": 227.2,
+            "end": 234.0,
             "enable": false,
             "video_only": false
         },
@@ -1021,9 +1053,25 @@
         },
         {
             "video_name": "Joueur du grenier - Des jeux Color Dreams - NES.mp4",
+            "audio_name": "C'est ma vidéo, jfais cque jveux !.mp3",
+            "start": 452.0,
+            "end": 460.0,
+            "enable": false,
+            "video_only": true
+        },
+        {
+            "video_name": "Joueur du grenier - Des jeux Color Dreams - NES.mp4",
             "audio_name": "Fin du jeu.mp3",
             "start": 486.0,
             "end": 502.0,
+            "enable": false,
+            "video_only": false
+        },
+        {
+            "video_name": "Papy Grenier - SIM CITY.mp4",
+            "audio_name": "Ana pinou. Pina. Pitouna. Vous êtes arrivés.mp3",
+            "start": 104.0,
+            "end": 114.0,
             "enable": false,
             "video_only": false
         },
@@ -1140,6 +1188,14 @@
             "video_only": false
         },
         {
+            "video_name": "Joueur du Grenier - Hors serie - Dessins animes pour garcons.mp4",
+            "audio_name": "Colissimo No Densetsu.mp3",
+            "start": 1558.0,
+            "end": 1583.25,
+            "enable": false,
+            "video_only": false
+        },
+        {
             "video_name": "Joueur du grenier - Les jeux Famille Addams.mp4",
             "audio_name": "C'est une faute d'orthographe d\u00e9moniaque.mp3",
             "start": 124.75,
@@ -1228,6 +1284,14 @@
             "video_only": false
         },
         {
+            "video_name": "Papy Grenier - Goldeneye 64.mp4",
+            "audio_name": "L'important c'est pas de gagner, c'est d'humilier son adversaire.mp3",
+            "start": 339.0,
+            "end": 345.0,
+            "enable": false,
+            "video_only": false
+        },
+        {
             "video_name": "Joueur du Grenier - Les jeux Disney.mp4",
             "audio_name": "Un livre qui s'ouvrait avec des truc marqu\u00e9s.mp3",
             "start": 2.0,
@@ -1291,6 +1355,14 @@
             "enable": false,
             "video_only": false
         },
+            {
+            "video_name": "Joueur du Grenier - Les jeux Disney.mp4",
+            "audio_name": "Bonjour Simba, je ne suis pas animé.mp3",
+            "start": 588.1,
+            "end": 593.4,
+            "enable": false,
+            "video_only": true
+        },
         {
             "video_name": "Joueur du Grenier - Les jeux Disney.mp4",
             "audio_name": "Tu cours et tu ramasses des papattes.mp3",
@@ -1336,6 +1408,22 @@
             "audio_name": "Infogrames, je vous le dis vous \u00eates des baltringues nucl\u00e9aires.mp3",
             "start": 1057.0,
             "end": 1061.0,
+            "enable": false,
+            "video_only": false
+        },
+        {
+            "video_name": "Joueur du Grenier - Les jeux Disney.mp4",
+            "audio_name": "Ces jeux de merde dévoreront nos âmes, Infogrames.mp3",
+            "start": 1085.0,
+            "end": 1154.0,
+            "enable": false,
+            "video_only": false
+        },
+        {
+            "video_name": "Joueur du Grenier - Les jeux Disney.mp4",
+            "audio_name": "Ma santé mentale va très très bien.mp3",
+            "start": 1218.6,
+            "end": 1225.5,
             "enable": false,
             "video_only": false
         },
@@ -1517,6 +1605,14 @@
         },
         {
             "video_name": "Joueur du Grenier - Hors serie - Les super-heros.mp4",
+            "audio_name": "Puis arriva le Japon.mp3",
+            "start": 535.0,
+            "end": 542.0,
+            "enable": false,
+            "video_only": false
+        },
+        {
+            "video_name": "Joueur du Grenier - Hors serie - Les super-heros.mp4",
             "audio_name": "Rendez-vous! Bande de criminels!.mp3",
             "start": 743.0,
             "end": 746.5,
@@ -1544,6 +1640,14 @@
             "audio_name": "L'\u00e9nigme du Sphynx.mp3",
             "start": 902.25,
             "end": 935.0,
+            "enable": false,
+            "video_only": false
+        },
+        {
+            "video_name": "Joueur du Grenier - Hors serie - Les super-heros.mp4",
+            "audio_name": "Je ne sais pas m'en servir Batman.mp3",
+            "start": 959.0,
+            "end": 973.0,
             "enable": false,
             "video_only": false
         },
@@ -1749,6 +1853,14 @@
         },
         {
             "video_name": "Joueur du Grenier - Les jeux de Baston 2eme edition.mp4",
+            "audio_name": "Ben moi ça m'dérange pas.mp3",
+            "start": 243.75,
+            "end": 256.6,
+            "enable": false,
+            "video_only": false
+        },
+        {
+            "video_name": "Joueur du Grenier - Les jeux de Baston 2eme edition.mp4",
             "audio_name": "Le lance-FLAAAAAAMMES.mp3",
             "start": 487.5,
             "end": 492.5,
@@ -1808,6 +1920,14 @@
             "audio_name": "Et moi je te dit, moi je t'encule.mp3",
             "start": 248.5,
             "end": 257.35,
+            "enable": false,
+            "video_only": false
+        },
+        {
+            "video_name": "Joueur du Grenier - Superman 64 & Batman Forever.mp4",
+            "audio_name": "Fuck l'ergonomie.mp3",
+            "start": 260.0,
+            "end": 274.4,
             "enable": false,
             "video_only": false
         },
@@ -2501,10 +2621,34 @@
         },
         {
             "video_name": "Joueur du Grenier - Vrac N\u00b02 sp\u00e9cial films.mp4",
+            "audio_name": "Hémoroïd de trou du bide pétard à bulle vieux renifleur de pé de vache.mp3",
+            "start": 63.2,
+            "end": 67.75,
+            "enable": false,
+            "video_only": false
+        },
+        {
+            "video_name": "Joueur du Grenier - Vrac N\u00b02 sp\u00e9cial films.mp4",
             "audio_name": "La taille compte pas mais y'a quand m\u00eame un moment ou \u00e7a devient handicapant.mp3",
             "start": 270.75,
             "end": 277.75,
             "enable": false,
+            "video_only": false
+        },
+        {
+            "video_name": "Joueur du Grenier - Vrac N\u00b02 sp\u00e9cial films.mp4",
+            "audio_name": "Elle est faite en quoi son arme bordel, chouik chouik.mp3",
+            "start": 277.25,
+            "end": 282.32,
+            "enable": false,
+            "video_only": false
+        },
+        {
+            "video_name": "Joueur du Grenier - Vrac N\u00b02 sp\u00e9cial films.mp4",
+            "audio_name": "Je te laisserai pas faire cette blague putain.mp3",
+            "start": 322.0,
+            "end": 332.5,
+            "enable":false,
             "video_only": false
         },
         {
@@ -2520,6 +2664,14 @@
             "audio_name": "M\u00eame dans un club SM le ratio il est pas aussi bas.mp3",
             "start": 492,
             "end": 496.0,
+            "enable": false,
+            "video_only": false
+        },
+        {
+            "video_name": "Joueur du Grenier - Vrac N\u00b02 sp\u00e9cial films.mp4",
+            "audio_name": "Grenier, je suis ton toi du futur, il faut que tu ahhhhhh.mp3",
+            "start": 572.5,
+            "end": 576.25,
             "enable": false,
             "video_only": false
         },
@@ -2557,6 +2709,14 @@
         },
         {
             "video_name": "Joueur du Grenier - Vrac N\u00b02 sp\u00e9cial films.mp4",
+            "audio_name": "Naaaan, il y a un court circuiiiiiit.mp3",
+            "start": 956.5,
+            "end": 962.75,
+            "enable": false,
+            "video_only": false
+        },
+        {
+            "video_name": "Joueur du Grenier - Vrac N\u00b02 sp\u00e9cial films.mp4",
             "audio_name": "Prend ce PQ et \u00e9touffe-toi avec.mp3",
             "start": 1072.0,
             "end": 1079.15,
@@ -2568,6 +2728,14 @@
             "audio_name": "Le jeu te vole gratuitement des vies en mode taliban.mp3",
             "start": 1124.5,
             "end": 1130.0,
+            "enable": false,
+            "video_only": false
+        },
+        {
+            "video_name": "Joueur du Grenier - Vrac N\u00b02 sp\u00e9cial films.mp4",
+            "audio_name": "Mettre un échantillon du virus Ebola dans la boite ça vous aurez épargner du temps de programmation.mp3",
+            "start": 1131.5,
+            "end": 1140.75,
             "enable": false,
             "video_only": false
         },
@@ -2656,7 +2824,7 @@
             "audio_name": "C'est logique.mp3",
             "start": 460.0,
             "end": 461.0,
-            "enable": true,
+            "enable": false,
             "video_only": false
         },
         {
@@ -2664,7 +2832,7 @@
             "audio_name": "C'est logique, nique ta m\u00e8re.mp3",
             "start": 460.0,
             "end": 476.0,
-            "enable": true,
+            "enable": false,
             "video_only": false
         },
         {
@@ -3477,6 +3645,14 @@
         },
         {
             "video_name": "Joueur du Grenier - X-perts - Megadrive.mp4",
+            "audio_name": "C'est pas un mauvais jeu, putain de merde.mp3",
+            "start": 140.5,
+            "end": 144.25,
+            "enable": false,
+            "video_only": false
+        },
+        {
+            "video_name": "Joueur du Grenier - X-perts - Megadrive.mp4",
             "audio_name": "Fait pas chier putain je l'ai mont\u00e9 en 20 minutes le g\u00e9n\u00e9rique.mp3",
             "start": 149.15,
             "end": 155.5,
@@ -3493,6 +3669,14 @@
         },
         {
             "video_name": "Joueur du Grenier - X-perts - Megadrive.mp4",
+            "audio_name": "C'est ce que nous voulions vous faire croire.mp3",
+            "start": 215.0,
+            "end": 229.3,
+            "enable": false,
+            "video_only": false
+        },
+        {
+            "video_name": "Joueur du Grenier - X-perts - Megadrive.mp4",
             "audio_name": "Janus.mp3",
             "start": 238.0,
             "end": 243.5,
@@ -3501,9 +3685,17 @@
         },
         {
             "video_name": "Joueur du Grenier - X-perts - Megadrive.mp4",
+            "audio_name": "C'est trop tard pour changer de nom là.mp3",
+            "start": 246.0,
+            "end": 248.0,
+            "enable": false,
+            "video_only": false
+        },
+        {
+            "video_name": "Joueur du Grenier - X-perts - Megadrive.mp4",
             "audio_name": "Reprogramme-toi, das Computer.mp3",
             "start": 311.75,
-            "end": 315.2,
+            "end": 315.65,
             "enable": false,
             "video_only": false
         },
@@ -3992,6 +4184,14 @@
             "audio_name": "Vous avez d\u00e9j\u00e0 vu un fant\u00f4me, vous pouvez m'affirmer que \u00e7a clignote pas.mp3",
             "start": 167.0,
             "end": 174.5,
+            "enable": false,
+            "video_only": false
+        },
+        {
+            "video_name": "Joueur du Grenier - PACMAN The new adventures.mp4",
+            "audio_name": "Parceque j'ai super envie de chier.mp3",
+            "start": 183.5,
+            "end": 185.5,
             "enable": false,
             "video_only": false
         },
@@ -7823,7 +8023,7 @@
             "video_name": "Joueur du Grenier (Hors-Sujet) - LES SITCOM AB PROD (helene et les garcons, Premiers Baisers etc).mp4",
             "audio_name": "Il y a vraiment beaucoup de sc\u00e9nario dans ce film porno mais quand est-ce qu'ils baisent.mp3",
             "start": 872.5,
-            "end": 875.0,
+            "end": 875.95,
             "enable": false,
             "video_only": false
         },
