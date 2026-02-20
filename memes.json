@@ -1,6 +1,6 @@
 {
     "convert_to_mono": true,
-    "enable_all": true,
+    "enable_all": false,
     "create_arduino_file": true,
     "audio_samples": [
         {
@@ -2630,8 +2630,8 @@
         {
             "video_name": "Joueur du Grenier - Vrac N\u00b02 sp\u00e9cial films.mp4",
             "audio_name": "La taille compte pas mais y'a quand m\u00eame un moment ou \u00e7a devient handicapant.mp3",
-            "start": 270.75,
-            "end": 277.75,
+            "start": 270.9,
+            "end": 275.9,
             "enable": false,
             "video_only": false
         },
@@ -3712,6 +3712,22 @@
             "audio_name": "Tu peux me remettre dans l'\u00e9tag\u00e8re s'il te pla\u00eet.mp3",
             "start": 155.35,
             "end": 165.75,
+            "enable": false,
+            "video_only": false
+        },
+        {
+            "video_name": "Joueur du Grenier - X-perts - Megadrive.mp4",
+            "audio_name": "Par le balais lui même.mp3",
+            "start": 380.3,
+            "end": 386.0,
+            "enable": false,
+            "video_only": false
+        },
+        {
+            "video_name": "Joueur du Grenier - X-perts - Megadrive.mp4",
+            "audio_name": "Je vais me connecter à internet pour pirater le system.mp3",
+            "start": 522.25,
+            "end": 531.0,
             "enable": false,
             "video_only": false
         },
@@ -7898,6 +7914,14 @@
             "end": 504.0,
             "enable": false,
             "video_only": true
+        },
+        {
+            "video_name": "Joueur du Grenier - ROGER RABBIT - NES.mp4",
+            "audio_name": "Et voici Rogert Rabbit mon fidèle compagnon lapin dessin animé.mp3",
+            "start": 526.25,
+            "end": 536.75,
+            "enable": true,
+            "video_only": false
         },
         {
             "video_name": "Joueur du Grenier - ROGER RABBIT - NES.mp4",
